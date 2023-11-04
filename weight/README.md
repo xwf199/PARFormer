@@ -1,0 +1,4 @@
+swin_base_patch4_window7_224_22k.yaml
+swin_base_patch4_window7_224_22k.pth
+swin_large_patch4_window7_224_22k.yaml
+swin_large_patch4_window7_224_22k.pth
